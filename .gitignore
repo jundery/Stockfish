@@ -1,0 +1,11 @@
+*.o
+stockfish
+stockfish.exe
+src/.*
+*~
+core
+profdir/*
+*.gcda
+*.gcno
+stockfish.profdata 
+*.profraw
